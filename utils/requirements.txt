@@ -1,0 +1,8 @@
+python-whois
+dnspython
+requests
+sslyze
+python3-nmap
+checkdmarc
+snallygaster
+rich
